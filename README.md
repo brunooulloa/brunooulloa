@@ -1,3 +1,5 @@
+<h2> Hey there, I'm Soft! <img src="https://media.discordapp.net/attachments/805366110685626378/842262646946136064/corazon.gif" width="50"></h2>
+
 ### Hey there, I'm Soft! ✨
 
 ### About me:
