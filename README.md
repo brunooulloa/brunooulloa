@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey there, I'm Soft! ✨
+
+### About me:
+
+- 🔭 I’m currently working on `discord.py` bots and `lua` scripts for `FiveM`
+- 🌱 I’m currently learning `Python` and in the future I'll start with `C#`
+- 💬 You can ask me about `FiveM` developing, `discord.py` bot developing, 
+- 📫 You can reach out to me on discord: Soft#6666
 
 <!--
 **ssooftt/ssooftt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
