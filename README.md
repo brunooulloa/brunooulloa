@@ -10,3 +10,7 @@
 <h3> Language Stats<h3>
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssooftt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3> Latest Repository</h3>
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ssooftt&repo=Soft-AntiBug)](https://github.com/ssooftt/Soft-AntiBug)
