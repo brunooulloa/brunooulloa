@@ -1,3 +1,5 @@
+<h1 align="center">Soft's ReadMe<h1>
+
 <h2> Hey there, I'm Soft! <img src="https://media.discordapp.net/attachments/805366110685626378/842262646946136064/corazon.gif" width="25" height="25"></h2>
 
 <h3> About me</h3>
