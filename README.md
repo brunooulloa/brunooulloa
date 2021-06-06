@@ -9,4 +9,4 @@
 
 <h3> Language Stats<h3>
 
-![](https://github-readme-stats.vercel.app/api?username=kilichi&show_icons=true)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssooftt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
