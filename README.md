@@ -7,7 +7,11 @@
 - ❓ You can ask me about `FiveM` <img src="https://media.discordapp.net/attachments/805366110685626378/842263916646105118/FiveM.png" width="15" height="15"> developing and `discord.py` <img src="https://media.discordapp.net/attachments/805366110685626378/842263502809858078/Discord.png" width="15" height="15"> bot developing
 - 📧 You can reach out to me on Discord: `Soft#6666` <img src="https://media.discordapp.net/attachments/805366110685626378/842263502809858078/Discord.png" width="15" height="15">
 
-<h3> Languages Stats<h3>
+<h3> General Stats</h3>
+
+[![](https://github-readme-stats.vercel.app/api?username=ssooftt&show_icons=true)]
+
+<h3> Languages Stats</h3>
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssooftt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
