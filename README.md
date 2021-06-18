@@ -9,11 +9,11 @@
 
 <h3> General Stats</h3>
 
-[!(https://github-readme-stats.vercel.app/api?username=ssooftt&show_icons=true)]
+![](https://github-readme-stats.vercel.app/api?username=ssooftt&show_icons=true)
 
 <h3> Languages Stats</h3>
 
-[!(https://github-readme-stats.vercel.app/api/top-langs/?username=ssooftt&layout=compact)]
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssooftt&layout=compact)](https://github.com/ssooftt/github-readme-stats)
 
 <h3> Latest Repository</h3>
 
