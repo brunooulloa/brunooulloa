@@ -13,7 +13,7 @@
 
 <h3> Languages Stats</h3>
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssooftt&layout=compact)](https://github.com/ssooftt/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssooftt&layout=compact)
 
 <h3> Latest Repository</h3>
 
