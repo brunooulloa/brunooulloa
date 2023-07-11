@@ -3,19 +3,19 @@
 <div>
 <h3> General Stats</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=ssooftt&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=brunooulloa&show_icons=true)
 </div>
 
 <div>
 <h3> Languages Stats</h3>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssooftt&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunooulloa&layout=compact)
 </div>
 
 <div>
 <h3> Latest Repository</h3>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ssooftt&repo=Soft-AntiBug)](https://github.com/ssooftt/Soft-AntiBug)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=brunooulloa&repo=Soft-AntiBug)](https://github.com/ssooftt/Soft-AntiBug)
 </div>
 
 <div>
