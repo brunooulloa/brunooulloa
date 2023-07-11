@@ -1,14 +1,4 @@
-<h2> Hey there, I'm Soft! <img src="https://bit.ly/3Bovabt" width="25" height="25"></h2>
-
-
-<div>
-<h3> About me</h3>
-
-- <img src="assets/laptop.png" width="15" height="15"> I’m currently working on `discord.py` <img src="https://bit.ly/3wMb6w6" width="15" height="15"> and `discord.NET` <img src="https://bit.ly/3wMb6w6" width="15" height="15"> bot developing, `Bash` <img src="https://bit.ly/3xPV3ym" width="15" height="15"> scripting and `FiveM` <img src="https://bit.ly/3rfDjdv" width="15" height="15"> `Lua` <img src="https://bit.ly/3hOilPU" width="15" height="15"> scripting
-- <img src="assets/lightbulb.png" width="15" height="20"> I’m currently learning `Python` <img src="https://bit.ly/3wPN6rP" width="15" height="15">, `Bash` <img src="https://bit.ly/3xPV3ym" width="15" height="15">, `PHP` <img alt="PHP" width="20" height="20" src="https://bit.ly/3rfuvnK"/> and `C#` <img src="https://bit.ly/3io6XZU" width="12.5" height="15">
-- <img src="assets/question.png" width="15" height="20"> You can ask me about `FiveM` <img src="https://bit.ly/3rfDjdv" width="15" height="15"> developing and `discord.py` <img src="https://bit.ly/3wMb6w6" width="15" height="15"> bot developing
-- <img src="assets/message.gif" width="20" height="15"> You can reach out to me on Discord: `Soft#6666` <img src="https://bit.ly/3wMb6w6" width="15" height="15">
-</div>
+<h2> Hey there, I'm Brunooulloa! <img src="https://bit.ly/3Bovabt" width="25" height="25"></h2>
 
 <div>
 <h3> General Stats</h3>
