@@ -11,13 +11,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunooulloa&layout=compact)
 </div>
-
-<div>
-<h3> Latest Repository</h3>
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=brunooulloa&repo=Soft-AntiBug)](https://github.com/ssooftt/Soft-AntiBug)
-</div>
-
 <div>
 <h3> Tech & Tools</h3>
 
